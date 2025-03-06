@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-TTS
+git+https://github.com/coqui-ai/TTS.git
 pydub
 requests
 nest_asyncio
