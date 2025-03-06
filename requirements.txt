@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+TTS
+pydub
+requests
+nest_asyncio
+pyngrok
